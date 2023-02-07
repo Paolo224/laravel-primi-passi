@@ -12,6 +12,11 @@
     <h1>
         La mia prima pagina LARAVEL
     </h1>
+    <button>
+        <a href="/pagina">
+            CLICCA PER ANDARE A PAGINA
+        </a>
+    </button>
 </body>
 
 </html>

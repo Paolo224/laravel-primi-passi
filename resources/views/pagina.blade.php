@@ -12,6 +12,11 @@
     <h1>
         Questa è la pagina: PAGINA!
     </h1>
+    <button>
+        <a href="/">
+            CLICCA PER ANDARE A HOME
+        </a>
+    </button>
 </body>
 
 </html>
